@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: SVC-Net
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: David
+    family-names: Le
+    email: dle45@uic.edu
+    affiliation: University of Illinois at Chicago
+    orcid: 'https://orcid.org/0000-0003-3772-1875'
+identifiers:
+  - type: url
+    value: 'https://github.com/dleninja/SVC-Net'
