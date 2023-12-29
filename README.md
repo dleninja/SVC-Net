@@ -26,3 +26,5 @@ For more information related to the dataset and codes, please feel free to conta
 
 ## Citations
 Le, David, Taeyoon Son, Tae-Hoon Kim, Tobiloba Adejumo, Mansour Abtahi, Shaiban Ahmed, Alfa Rossi, Behrouz Ebrahimi, Albert Dadzie, and Xincheng Yao. "SVC-Net: A spatially vascular connectivity network for deep learning construction of microcapillary angiography from single-scan-volumetric OCT." Communications Engineering (2023). https://dx.doi.org/10.21203/rs.3.rs-2387074/v1
+
+[![DOI](https://zenodo.org/badge/736834011.svg)](https://zenodo.org/doi/10.5281/zenodo.10443044)
