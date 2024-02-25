@@ -25,6 +25,6 @@ Our model, SVC-Net, follows the design of an encoder-decoder network. For the en
 For more information related to the dataset and codes, please feel free to contact the corresponding author via email (Prof. Xincheng Yao, xcy@uic.edu), and tell us about your study. We can provide you with the necessary information and resources.
 
 ## Citations
-Le, David, Taeyoon Son, Tae-Hoon Kim, Tobiloba Adejumo, Mansour Abtahi, Shaiban Ahmed, Alfa Rossi, Behrouz Ebrahimi, Albert Dadzie, and Xincheng Yao. "SVC-Net: A spatially vascular connectivity network for deep learning construction of microcapillary angiography from single-scan-volumetric OCT." Communications Engineering (2023). https://dx.doi.org/10.21203/rs.3.rs-2387074/v1
+Le, D., Son, T., Kim, TH. et al. Deep learning-based optical coherence tomography angiography image construction using spatial vascular connectivity network. Commun Eng 3, 28 (2024). https://doi.org/10.1038/s44172-024-00173-9
 
 [![DOI](https://zenodo.org/badge/736834011.svg)](https://zenodo.org/doi/10.5281/zenodo.10443044)
